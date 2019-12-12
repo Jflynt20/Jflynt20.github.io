@@ -1,11 +1,39 @@
-<!Doctype html>
-<html>
-<head>
+<DOCTYPE HTML>
+  <html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>                            
+    <body>
+        
+        <h1>Josh's blog</h1>
 
-  <title>Josh</title>
-  <meta charset="utf-8">
-  </head>
-<body>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WZvJ6S-Lh1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</body>
+        <h3>Contents</h3>
+        <ul>
+            <li>State Champs!</li>
+          <li>1000th win</li>
+          <li>The Next Season>
+        </ul>
+        
+        <h2>First post</h2>
+        <h6>Posted on November 15, 2019</h6>
+        <style>
+            .Contents {
+                font-family:fantasy;
+                font-size:20px;
+                font-weight:bold;
+            }
+        </style>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/WZvJ6S-Lh1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        <p>The Simpson County Academy high school basketball team was hosting the 4A state tournament. In which they were playing against the Copiah colonels for the state title.  .</p>
+        <p>Led by 6 seniors, 2 juniors,and a sophmore point guard, the cougars jumped to an early lead. Although early foul trouble kept the cougars from being able to pull away throughout the game. They still managed to secure their lead in the second half with great free throw shooting from their players. The Colonels could never get within striking distance. This win mean't a lot for the school and the team, but the coolest part was this was their coaches overall 1000th win as 
+          a high school basketball coach, so it made the night that much better. </p> 
+        <p>After winning state and going to the semifinals in the overall tournament, the Simpson cougars returned home to start prepping for the next season. Only returning 2 seniors, 6 juniors, and 6 sophmores. This mean't they had to put a lot of work in during the offseason. By the time the season came around, The cougars jumped out to a hot start going 7-0 with big wins over Jackson Prep and Brookhaven Academy. Although they have started off good they have had to play through 
+          an injury to their senior starting forward. He won't be out for a long time, but having him in the lineup would make a huge difference.  
+      <img src="http://a.athletics.marisths.org/uploads/3/8/1/6/3816576/s916669280406866194_p2_i1_w800.jpeg" width="100" height="100">
+          <a href="webpage2.html"</a> 
+    </body>
+   
+  </html>
